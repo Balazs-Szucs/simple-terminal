@@ -14,5 +14,5 @@ SimpleShell is a basic shell application written in Java. It allows users to exe
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/simpleshell.git
-   cd simpleshell
+   https://github.com/Balazs-szucs/simple-terminal.git
+      cd simpleshell
